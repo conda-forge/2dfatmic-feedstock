@@ -11,7 +11,7 @@ source:
   - path: build.xsh
 
 build:
-  number: 0
+  number: 1
   script: "xonsh build.xsh"
   skip: true  # [win]
 
